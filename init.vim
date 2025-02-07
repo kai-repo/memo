@@ -1,6 +1,6 @@
 ~/.config/nvim/init.vim
 
-  set number                    " 行番号を表示する
+set number                    " 行番号を表示する
 " set relativenumber            " 相対行番号を表示する
 set tabstop=2                 " タブ幅を2に設定
 set shiftwidth=2              " 自動インデント時のスペース幅を2に設定
